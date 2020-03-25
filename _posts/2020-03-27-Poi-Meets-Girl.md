@@ -3,15 +3,7 @@ title: Poi Meets Girl
 categories:
   - puree
 date: 2020-03-27
-<<<<<<< HEAD
-<<<<<<< HEAD
-featured_image:
-=======
 featured_image: /images/2020-03-27-poi.jpg
->>>>>>> parent of 09ca7f0... Poi test 4
-=======
-featured_image: /images/2020-03-27-poi.jpg
->>>>>>> parent of 09ca7f0... Poi test 4
 recipe:
   servings:
   prep: 10 minutes
