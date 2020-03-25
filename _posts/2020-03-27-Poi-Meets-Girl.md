@@ -1,15 +1,16 @@
 ---
 title: Poi Meets Girl
 categories:
+  - puree
 date: 2020-03-27
 featured_image: "/images/2020-03-27-poi.jpg"
 recipe:
   servings:
   prep:
   cook:
-  ingredients_markdown:
+  ingredients_markdown: |-
   * Taro Root
-  directions_markdown:
+  directions_markdown: |-
   1. Steam, boil, or roast taro until the inside is tender
   2. Peel Taro
   3. Mash it up in a mortar and pestle, with a ricer, a masher, a food processor, a food mill, or a blender
