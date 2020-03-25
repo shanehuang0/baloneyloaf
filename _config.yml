@@ -3,7 +3,7 @@
 
 title: Baloney Loaf
 url: "https://shanehuang0.github.io/baloneyloaf"
-baseurl: "/baloneyloaf"
+baseurl:
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
