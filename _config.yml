@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Baloney Loaf
+url: "https://shanehuang0.github.io/baloneyloaf/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -18,6 +18,8 @@ author:
 social:
   name: Treat Template
   links:
+    - https://www.instagram.com/baloneyloaf/
+    - https://www.reddit.com/user/baloneyloaf/
     - https://github.com/CloudCannon/treat-jekyll-template
 
 # -----
@@ -75,7 +77,6 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
   - Pinterest
