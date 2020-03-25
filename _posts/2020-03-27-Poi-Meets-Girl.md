@@ -6,12 +6,12 @@ date: 2020-03-27
 featured_image:
 recipe:
   servings:
-  prep:
-  cook:
+  prep: 10 minutes
+  cook: 40 minutes
   ingredients_markdown: |-
 
   * Taro Root
-  
+
   directions_markdown: |-
 
   1. Steam, boil, or roast taro until the inside is tender
