@@ -12,7 +12,7 @@ recipe:
   ingredients_markdown: |-
     **Cupcakes**
 
-    * 2 cups AP flour
+    * 2 cups flour
     * 1/2 cup cocoa powder
     * 1 tablespoon baking powder
     * 1 tsp. salt
