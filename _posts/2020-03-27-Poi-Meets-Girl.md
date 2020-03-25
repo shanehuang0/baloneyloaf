@@ -1,9 +1,6 @@
 ---
 title: Poi Meets Girl
 categories:
-  - Puree
-  - Hawaiian
-  - Starch
 date: 2020-03-27
 featured_image: {{ '/images/2020-03-27-poi.jpg' | relative_url }}
 recipe:
