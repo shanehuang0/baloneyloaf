@@ -2,13 +2,8 @@
 # Site
 
 title: Baloney Loaf
-<<<<<<< HEAD
-url: https://shanehuang0.github.io/baloneyloaf
-baseurl: /baloneyloaf
-=======
-url: "https://shanehuang0.github.io/baloneyloaf/"
+url: "http://127.0.0.1:4000"
 baseurl:
->>>>>>> parent of 4f4d89d... Poi written out
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
